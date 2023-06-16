@@ -1,4 +1,3 @@
-[![MasterHead](https://giphy.com/gifs/animation-animated-gif-xTiTnxpQ3ghPiB2Hp6)]
 <h1 align="center">Hi 👋, I'm Neha Thorat</h1>
 <h3 align="center">Journeying into the World of Programming</h3>
 <img align = "right"  width=400  alt="coding"  src="https://chicmic.com.au/wp-content/themes/chicmic/img/codingisgood/project.png">
