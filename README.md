@@ -1,6 +1,3 @@
-[![MasterHead] (![image](https://github.com/ntnehathorat/ntnehathorat/assets/117896471/5ed48739-3cf2-4ac4-af66-0c7b4feffc6a))]
-
-
 <h1 align="center">Hi 👋, I'm Neha Thorat</h1>
 <h3 align="center">Journeying into the World of Programming</h3>
 <img align = "right"  width=400  alt="coding"  src="https://chicmic.com.au/wp-content/themes/chicmic/img/codingisgood/project.png">
