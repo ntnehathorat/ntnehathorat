@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?w=1060&t=st=1686888422~exp=1686889022~hmac=e40ace057f1f0e012ae17945153eaff1d69f5425612c83fd23581e5b78cba718)]
+[![MasterHead] width=600 (https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?w=1060&t=st=1686888422~exp=1686889022~hmac=e40ace057f1f0e012ae17945153eaff1d69f5425612c83fd23581e5b78cba718)]
 <h1 align="center">Hi 👋, I'm Neha Thorat</h1>
 <h3 align="center">Journeying into the World of Programming</h3>
 <img align = "right"  width=400  alt="coding"  src="https://chicmic.com.au/wp-content/themes/chicmic/img/codingisgood/project.png">
