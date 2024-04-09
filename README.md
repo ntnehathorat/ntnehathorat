@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **JAVA,MySQL,DBMS,OOPS**
 
-- 🌱 I’m currently learning **DSA-Full Stack Developer**
+- 🌱 **DSA-Full Stack Developer**
 
 - 📫 How to reach me **nehathorat2016@gmail.com**
 
