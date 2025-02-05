@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neha Thorat</h1>
 <h3 align="center">Journeying into the World of Programming</h3>
-<img align = "right"  width=400  alt="coding"  src="https://chicmic.com.au/wp-content/themes/chicmic/img/codingisgood/project.png">
+<img align = "right"  width=400  alt="coding"  src="[https://chicmic.com.au/wp-content/themes/chicmic/img/codingisgood/project.png](https://www.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_25225390.htm#fromView=keyword&page=1&position=18&uuid=19a1248c-ff06-4bab-bb92-b05c45816f6d&query=Female+Programmer)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntnehathorat&label=Profile%20views&color=0e75b6&style=flat" alt="ntnehathorat" /> </p>
 
