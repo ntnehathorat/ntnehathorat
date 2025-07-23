@@ -8,7 +8,7 @@
 
 - 🌱 **Software Developer**
 
-- 📫 How to reach me **nehathorat2016@gmail.com**
+- 📫 How to reach me **nehathorat2024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
